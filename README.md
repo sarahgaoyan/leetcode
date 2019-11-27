@@ -1,2 +1,4 @@
 # leetcode
 practice
+
+ctl + P 
